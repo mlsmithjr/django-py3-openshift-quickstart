@@ -5,7 +5,7 @@ import os
 # Put here required packages or
 # Uncomment one or more lines below in the install_requires section
 # for the specific client drivers/modules your application needs.
-packages = ['Django<=1.7.7',
+packages = ['Django<=1.8.3',
             'static3',  # If you want serve the static files in the same server
             # 'mysql-connector-python',
             # 'pymongo',
